@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Abonasara</h1>
-<h3 align="center">Software Engineer Student looking for a 2023 Summer internship!</h3>
+<h3 align="center">Software engineering new grad seeking exciting opportunities to progress my career and make a meaningful impact in the tech industry!</h3>
 
 - 🔭 I’m currently working on **Exam Database for the Faculty of Medicine**
 
@@ -13,11 +13,11 @@
 
 I am a Software Engineering student with a passion for creating innovative and efficient products. 
 My relevant skills and experience include: 
-- 3+ years of experience in Java and Python 
+- 4+ years of experience in Java and Python 
 - Proficiency in Bash, Go, C#, C, C++, JavaScript, NodeJS, Bootstrap, and React 
 - Strong understanding of data structures, algorithms, and object-oriented programming 
 - 2+ years of internship experience in software development and testing 
-- Experience with DevOps process and technology, including Kubernetes, Docker, Jenkins, Git, Splunk, newSQL, and more 
+- 2+ years of experience with DevOps process and technology, including Kubernetes, Docker, Jenkins, Git, Splunk, newSQL, and more 
 - Receiving an award for the most participation at the uOttawaHack 4 hackathon 
 - Demonstrated time management, teamwork, and leadership skills through successful group software projects 
 
