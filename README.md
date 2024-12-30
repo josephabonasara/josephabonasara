@@ -10,6 +10,7 @@
     </td>
   </tr>
 </table>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephabonasara&count_private=true&pat=YOUR_PERSONAL_ACCESS_TOKEN)
 
 ![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=josephabonasara&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
 
